@@ -1,1 +1,101 @@
-
+{
+  "fruits": [
+    {
+       "id": 1,
+       "title": "Banano",
+       "description": "Es un fruto comestible, botánicamente una baya, de varios tipos de grandes plantas herbáceas del género Musa.",
+       "price": "1500",
+       "quantity": "250",
+       "image": "https://encolombia.com/wp-content/uploads/2013/01/Banano.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Manzana",
+      "description": "La manzana es el fruto comestible de la especie Malus domestica, llamada comúnmente manzano.",
+      "price": "1000",
+      "quantity": "500",
+      "image": "https://mejorconsalud.as.com/wp-content/uploads/2015/04/una-manzana-dia.jpg"
+},
+    { 
+      "id": 3, 
+      "title": "Mango", 
+      "description": "El mango es el nombre de las frutas de varias especies de árboles del género Mangifera, especialmente de Mangifera indica, y sus numerosos cultivares.",
+      "price": "1800",
+      "quantity": "485",
+      "image": "https://dam.cocinafacil.com.mx/wp-content/uploads/2018/06/beneficios-del-mango.jpg"
+    },
+     
+    { 
+      "id": 4, 
+      "title": "Pera", 
+      "description": "Se denomina pera al fruto de distintas especies del género Pyrus, integrado por árboles caducifolios conocidos comúnmente como perales.",
+      "price": "2200",
+      "quantity": "763",
+      "image": "https://ecomercioagrario.com/wp-content/uploads/2019/07/pera-624x321.jpg"
+    },
+     
+    { 
+      "id": 5, 
+      "title": "uva", 
+      "description": "La uva es la común denominación que reciben los frutos formados en los racimos de la vid.​​",
+      "price": "2500",
+      "quantity": "123",
+      "image": "https://storage.googleapis.com/portalfruticola/2019/07/60e79e66-uva-shutterstock_130380677-1024x683.jpg"
+    },
+     
+    { 
+      "id": 6, 
+      "title": "Naranja", 
+      "description": "La naranja es una fruta cítrica obtenida del naranjo dulce, del naranjo amargo y de naranjos de otras variedades o híbridos",
+      "price": "1300",
+      "quantity": "432",
+      "image": "https://www.herbazest.com/imgs/0/9/1/351766/naranja.jpg"
+    },
+    { 
+      "id": 7, 
+      "title": "Mandarina", 
+      "description": "La mandarina es el fruto  de las diferentes especies de cítricos llamados comúnmente mandarino",
+      "price": "1750",
+      "quantity": "342",
+      "image": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/10/04173718/mandarina-02.jpg"
+    },
+    { 
+      "id": 8, 
+      "title": "Piña", 
+      "description": "La piña tropical o piña americana (Ananas comosus) es la fruta obtenida de la planta que recibe el mismo nombre",
+      "price": "3000",
+      "quantity": "876",
+      "image": "https://cocina-casera.com/wp-content/uploads/2014/09/pina.jpg"
+    },
+    { 
+      "id": 9, 
+      "title": "Mora", 
+      "description": "La mora es una fruta rica en fibra, como el resto de bayas silvestres, de forma que facilita el tránsito intestinal",
+      "price": "3500",
+      "quantity": "543",
+      "image": "https://i.pinimg.com/originals/e7/01/1b/e7011bcfcba33104322af9a6ae57aa9c.jpg"
+    }
+  ],
+  {
+  "vegetables": [
+    {
+       "id": 1,
+       "title": "Tomate Chonto",
+       "description": "El tomate tipo “chonto”, es el cultivar de mayor pro- ducción y consumo en Colombia",
+       "price": "1500",
+       "quantity": "1650",
+       "image": "https://www.siembraco.com/wp-content/uploads/2020/04/tomatoes-3702925_1920.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Cebolla Morada",
+      "description": "Contiene uno de los más poderosos antioxidantes, la quercetina, que ayuda a prevenir la osteoporosis",
+      "price": "1200",
+      "quantity": "500",
+      "image": "https://frumoverchi.es/image/cache/catalog/productos/cebollamorada-700x700.jpeg"
+}
+  ],
+  "profile": {
+    "name": "lab4code"
+  }
+}

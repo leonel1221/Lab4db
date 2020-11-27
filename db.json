@@ -76,24 +76,6 @@
       "image": "https://i.pinimg.com/originals/e7/01/1b/e7011bcfcba33104322af9a6ae57aa9c.jpg"
     }
   ],
-  "vegetables": [
-    {
-       "id": 1,
-       "title": "Tomate Chonto",
-       "description": "El tomate tipo “chonto”, es el cultivar de mayor pro- ducción y consumo en Colombia",
-       "price": "1500",
-       "quantity": "1650",
-       "image": "https://www.siembraco.com/wp-content/uploads/2020/04/tomatoes-3702925_1920.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Cebolla Morada",
-      "description": "Contiene uno de los más poderosos antioxidantes, la quercetina, que ayuda a prevenir la osteoporosis",
-      "price": "1200",
-      "quantity": "500",
-      "image": "https://frumoverchi.es/image/cache/catalog/productos/cebollamorada-700x700.jpeg"
-}
-  ],
   "profile": {
     "name": "lab4code"
   }

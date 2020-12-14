@@ -15,7 +15,7 @@
       "price": "1000",
       "quantity": "500",
       "image": "https://mejorconsalud.as.com/wp-content/uploads/2015/04/una-manzana-dia.jpg"
-},
+    },
     { 
       "id": 3, 
       "title": "Mango", 
@@ -74,7 +74,95 @@
       "price": "3500",
       "quantity": "543",
       "image": "https://i.pinimg.com/originals/e7/01/1b/e7011bcfcba33104322af9a6ae57aa9c.jpg"
-    }
+    },
+    { 
+      "id": 10, 
+      "title": "Tomate chonto", 
+      "description": "Producto fresco de la region del Santuario Antioquia",
+      "price": "1200",
+      "quantity": "700",
+      "image": "https://www.siembraco.com/wp-content/uploads/2020/04/tomatoes-3702925_1920.jpg"
+    },
+    { 
+      "id": 11, 
+      "title": "Tomate riñón", 
+      "description": "Delicioso tomate fresco y sin fungicidas, del municipio de Yarumal",
+      "price": "1400",
+      "quantity": "500",
+      "image": "https://www.cuerpomente.com/medio/2020/10/21/tomate_f0666a57_1200x1200.jpg"
+    },
+    { 
+      "id": 12, 
+      "title": "Cebolla Blanca", 
+      "description": "comúnmente conocida como cebolla, es una planta herbácea bienal perteneciente a la familia de las amarilidáceas",
+      "price": "1300",
+      "quantity": "650",
+      "image": "https://cdn1.totalcode.net/la14/product-zoom/es/cebolla-cabezona-blanca-x-kg-1.jpg"
+    },
+    { 
+      "id": 13, 
+      "title": "Cebolla Morada", 
+      "description": "La cebolla contiene azúcar natural, vitaminas A, B6, C y E. También minerales como el sodio, potasio, hierro y fibra alimentaria.",
+      "price": "1800",
+      "quantity": "1500",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/ARS_red_onion.jpg"
+    },
+    { 
+      "id": 14, 
+      "title": "Platano", 
+      "description": "Platano arton de la zona de uraba, grande y fresco",
+      "price": "300",
+      "quantity": "2000",
+      "image": "https://imgcdn.larepublica.co/i/768/2019/11/29144731/platano-1.jpg"
+    },
+    { 
+      "id": 15, 
+      "title": "Sandia", 
+      "description": "Deliciosas sandiass de los llanos del cuiva",
+      "price": "8000",
+      "quantity": "1500",
+      "image": "https://agfstorage.blob.core.windows.net/misc/FP_es/2019/11/04/menina1.jpg"
+    },
+    { 
+      "id": 16, 
+      "title": "Papa capira", 
+      "description": "Producto fresco de la region del Oriente Antioqueño",
+      "price": "1800",
+      "quantity": "1700",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Papacriollacolombiana.jpg"
+    },
+    { 
+      "id": 17, 
+      "title": "Papa nevada", 
+      "description": "Producto fresco de la region del Oriente Antioqueño",
+      "price": "2200",
+      "quantity": "1000",
+      "image": "https://lamayorista.com/wp-content/uploads/2020/10/82058.jpg"
+    },
+    { 
+      "id": 18, 
+      "title": "Papa Criolla", 
+      "description": "Producto fresco de la region del Oriente Antioqueño",
+      "price": "1600",
+      "quantity": "1200",
+      "image": "https://i.ytimg.com/vi/HXycowVxRlU/maxresdefault.jpg"
+    },
+    { 
+      "id": 19, 
+      "title": "Remolacha", 
+      "description": "Producto fresco de la region del Santuario Antioquia",
+      "price": "2800",
+      "quantity": "200",
+      "image": "https://soycomocomo.es/media/2015/11/remolacha.jpg"
+    },
+    { 
+      "id": 20, 
+      "title": "Zanahoria", 
+      "description": "Producto fresco de la region del Oriente Antioqueño",
+      "price": "1800",
+      "quantity": "1100",
+      "image": "https://visionagropecuaria.com.ve/wp-content/uploads/2018/08/maxresdefault.jpg"
+    },
   ],
  
   "profile": {
